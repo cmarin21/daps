@@ -39,8 +39,15 @@ If you would like to contribute to the project, do the following:
 1. Create a new branch from the develop branch.
 
     git branch <BRANCH_NAME> develop
-
+    
 1. Make your changes.
+    
+1. Staging
+
+1. Commit the changes
+
+1. Push the changes to remote repository
+
 
 1. Send a pull request. Note that we will only accept pull requests against
    the develop branch.
